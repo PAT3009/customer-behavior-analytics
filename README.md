@@ -35,6 +35,7 @@ A leading retail company has observed significant changes in purchasing patterns
 - **Power BI** – Interactive dashboard & visualizations  
 
 ## 📂 Project Structure
+```bash
 customer-behavior-analytics/
 ├── README.md
 ├── business_problem_and_scope.pdf
@@ -47,7 +48,7 @@ customer-behavior-analytics/
 ## 🚀 How to Use
 1. Open the **Power BI file** (`customer_shopping_behavior_dashboard.pbix`) to explore the interactive dashboard  
 2. Use the built-in filters (Subscription Status, Gender, Product Category, Shipping Type, etc.)  
-3. Review the SQL queries in `customer_behavior_sql_queries.sql.sql` for deeper analysis  
+3. Review the SQL queries in `customer_behavior_sql_queries.sql` for deeper analysis  
 4. Check the Jupyter notebook `customer_shopping_behavior_analysis.ipynb` for data preprocessing steps  
 5. Read the full project report in `customer_shopping_behavior_report.pdf`
 
@@ -69,8 +70,8 @@ customer-behavior-analytics/
 ![customer_shopping_behavior_dashboard](https://github.com/user-attachments/assets/7017210c-8083-4cb7-b729-97619bcf9ed7)
 
 ## 📚 References & Acknowledgements
-This project was inspired by a data analysis tutorial and GitHub repository:  
-- **GitHub Tutorial**: [Paste the GitHub link of the author you referenced here
+This project was inspired by a data analysis tutorial and GitHub repository:
+- **GitHub Tutorial**: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
 - **YouTube Tutorial**: https://youtu.be/5PrZvPeUw60?si=QUH4L0rFpQrCgK6R
 
 ## 👤 Author
