@@ -35,21 +35,16 @@ A leading retail company has observed significant changes in purchasing patterns
 - **Power BI** – Interactive dashboard & visualizations
 
 ## 📂 Project Structure
+```
 customer-behavior-analytics/
-│
 ├── README.md
-│
 ├── business_problem_and_scope.pdf
-│
 ├── customer_behavior_sql_queries.sql
-│
 ├── customer_shopping_behavior.csv
-│
 ├── customer_shopping_behavior_analysis.ipynb
-│
 ├── customer_shopping_behavior_dashboard.pbix
-│
 └── customer_shopping_behavior_report.pdf
+```
 
 ## 🚀 How to use
 1. Open the **Power BI file** (`customer_shopping_behavior_dashboard.pbix`) to explore the interactive dashboard  
